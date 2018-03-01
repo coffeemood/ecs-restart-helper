@@ -5,8 +5,9 @@ Often times I find it rather tiring to go through each ECS Task and restart them
 
 ### Pre Requisites 
 
-Make sure you have a generate session token stored in `~/.aws/credentials`. This can be done by a variety of AWS CLI SSO tools out there
+1. Make sure you have a generate session token stored in `~/.aws/credentials` for the *default* profile . This can be done by a variety of AWS CLI SSO tools out there
 
+2. Make sure you have `aws-cli` installed
 
 ### Usage 
 
